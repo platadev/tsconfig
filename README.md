@@ -1,12 +1,10 @@
 # Typescript config
 
-Shared Typescript config for all [@plata](https://github.com/platadev) projects
+> Shared Typescript config for all [@platadev](https://github.com/platadev) projects
 
 ## Installation
 
 ```bash
-  npm install @plata/tsconfig
-  # or
   yarn add @plata/tsconfig
 ```
 
